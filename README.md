@@ -1,0 +1,1 @@
+# stylelint-pr-6695
