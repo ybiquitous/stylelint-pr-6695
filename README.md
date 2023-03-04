@@ -1,5 +1,7 @@
 # stylelint-pr-6695
 
+See <https://github.com/stylelint/stylelint/pull/6695>
+
 ## Run
 
 ```shell
