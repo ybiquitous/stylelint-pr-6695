@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "stylelint": "github:stylelint/stylelint#pull/6695/merge",
+    "stylelint": "github:stylelint/stylelint#pull/6703/merge",
     "typescript": "4.9.5"
   }
 }
